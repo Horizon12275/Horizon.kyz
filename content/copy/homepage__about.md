@@ -2,8 +2,8 @@
 
 type: "copy"
 name: "homepage__bio"
-title: "Homepage_bio_title"
+title: "Why Not"
 
 ---
 
-Hommepage_bio_content
+Embrace the Galaxy.

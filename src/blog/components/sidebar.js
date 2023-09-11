@@ -1,7 +1,10 @@
 import React from 'react';
 import {
   FaPinterestP,
-  FaFacebookF
+  FaGithub,
+  FaSteam,
+  FaCamera,
+  FaTwitch
 } from 'react-icons/fa';
 import {FiMail} from 'react-icons/fi'
 import { StaticQuery, graphql } from 'gatsby';
@@ -30,14 +33,14 @@ export default (props) => {
         <div className="dn db-l" style={{gridArea: "sidebar"}}>
           <div className="w3 bg-dark-gray flex flex-wrap" style={{position: "sticky", top: "4rem"}}>
             <a
-              href={`https://pinterest.com/pin/create/button/?url=${base + location}&description=${desc}&media=${base + img}`}
-              className="w-100 h3 flex items-center justify-center b near-white"><FaPinterestP /></a>
+                href={`https://steamcommunity.com/profiles/76561198327411284/`}
+              className="w-100 h3 flex items-center justify-center b near-white"><FaSteam /></a>
             <a
-              href={`https://www.facebook.com/sharer/sharer.php?u=${base + location}`}
-              className="w-100 h3 flex items-center justify-center b near-white"><FaFacebookF /></a>
+                href={`https://github.com/Horizon4U`}
+              className="w-100 h3 flex items-center justify-center b near-white"><FaGithub /></a>
             <a
-              href={`mailto:?&body=${base + location}`}
-              className="w-100 h3 flex items-center justify-center b near-white"><FiMail /></a>
+                href={`http://live.bilibili.com/25943041`}
+              className="w-100 h3 flex items-center justify-center b near-white"><FaTwitch /></a>
           </div>
         </div>
     )}} />

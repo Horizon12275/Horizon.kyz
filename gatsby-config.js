@@ -1,16 +1,17 @@
 module.exports = {
   siteMetadata: {
     navbarLinks: [
-      {to: "/poetry", name: "poetry"},
-      {to: "/lifestyle", name: "Lifestyle"},
-      {to: "/blog", name: "blog"},
+      { to: "/Articles", name: "Articles" },
+      { to: "/Moments", name: "Moments" },
+      { to: "/Mix", name: "Mix" },
+      { to: "/blog", name: "blog" },
     ],
-    title: "Horizon",
+    title: "HORIZON",
     description: "Blog website for Horizon test version 1.0",
-    siteUrl: "https://tyra-starter.netlify.com",
-    homepageHeader: "Horizon",
+    siteUrl: "https://horizonkyz.gatsbyjs.io/",
+    homepageHeader: "It's Horizon",
     homepageAbout: "Practice makes perfect.",
-    mailChimpUrl: "https://github.com/Horizon4U",
+    mailChimpUrl: "https://github.com/Horizon4U/Horizon.kyz",
     mailChimpToken: "MAILCHIMP TOKEN HERE",
     youtube: "", // YOUR YOUTUBE PROFILE HERE
     github: "", // YOUR GITHUB PROFILE HERE 

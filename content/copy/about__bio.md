@@ -2,8 +2,8 @@
 
 type: "copy"
 name: "about__bio"
-title: "About_bio Title"
+title: "ASCEND"
 
 ---
 
-About_bio Content
+Escape,  Ascend Beyond The Peak, And Back Home.

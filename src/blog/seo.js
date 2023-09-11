@@ -38,7 +38,7 @@ export default props => (
               "name": "${data.site.siteMetadata.siteTitle}",
               "logo": {
                 "@type": "ImageObject",
-                "url": "${data.site.siteMetadata.siteUrl}/logo.png"
+                "url": "${data.site.siteMetadata.siteUrl}/logo.jpg"
               }
             },
             "description": "${props.description}"
