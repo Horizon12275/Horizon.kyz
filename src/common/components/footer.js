@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, StaticQuery, graphql } from 'gatsby';
+import { StaticQuery, graphql } from 'gatsby';
 import {
   FaPinterestP,
   FaFacebookF,
@@ -79,7 +79,7 @@ export default () => (
           </div>
           <div className="flex flex-column">
             <span className="near-white sans-serif f5 tracked mb3 db">FIND {data.site.siteMetadata.siteTitle} ON</span>
-            <a href="https://github.com/madelyneriksen/gatsby-starter-tyra" className="near-white sans-serif f5 tracked pv1 db">GITHUB</a>
+            <a href="https://github.com/Horizon4U" className="near-white sans-serif f5 tracked pv1 db">GITHUB</a>
             <a href="https://steamcommunity.com/profiles/76561198327411284/" className="near-white sans-serif f5 tracked pv1 db">STEAM</a>
             <a href="http://live.bilibili.com/25943041" className="near-white sans-serif f5 tracked pv1 db">LIVESTREAM</a>
           </div>
