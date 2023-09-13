@@ -4,13 +4,11 @@
   "version": "1.0.0",
   "author": "Hunter Chang",
   "dependencies": {
-    "@emotion/core": "^11.0.0",
-    "babel-plugin-emotion": "^11.0.0",
-    "debug": "^4.3.4",
-    "emotion-theming": "^11.0.0",
+    "bootstrap": "^4.5.2",
     "gatsby": "^5.12.4",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-feed": "^5.12.0",
+    "gatsby-plugin-gitalk": "^1.2.6",
     "gatsby-plugin-google-analytics": "^5.12.0",
     "gatsby-plugin-manifest": "^5.12.0",
     "gatsby-plugin-offline": "^6.12.0",
@@ -27,8 +25,6 @@
     "gatsby-source-filesystem": "^5.12.0",
     "gatsby-transformer-remark": "^6.12.0",
     "gatsby-transformer-sharp": "^5.12.0",
-    "lodash": "^4.17.21",
-    "mkdirp": "^3.0.1",
     "node-sass": "^9.0.0",
     "prismjs": "^1.29.0",
     "react": "^18.2.0",
@@ -36,9 +32,7 @@
     "react-helmet": "^6.1.0",
     "react-icons": "^4.11.0",
     "sharp": "^0.32.5",
-    "tachyons": "^4.12.0",
-    "typeface-merriweather": "^1.1.13",
-    "typeface-montserrat": "^1.1.13"
+    "tachyons": "^4.12.0"
   },
   "keywords": [
     "gatsby"

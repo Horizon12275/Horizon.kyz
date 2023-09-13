@@ -19,5 +19,6 @@ export default props => (
       location={props.location}
     />
     <Suggested />
+    
   </div>
 )
