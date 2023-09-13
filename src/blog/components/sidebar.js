@@ -39,7 +39,7 @@ export default (props) => {
                 href={`https://github.com/Horizon4U`}
               className="w-100 h3 flex items-center justify-center b near-white"><FaGithub /></a>
             <a
-                href={`http://live.bilibili.com/25943041`}
+                href={`https://www.miit.gov.cn/ztzl/rdzt/srkzxxgcxjpxsdzgtsshzysxztjy/index.html`}
               className="w-100 h3 flex items-center justify-center b near-white"><FaTwitch /></a>
           </div>
         </div>

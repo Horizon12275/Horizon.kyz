@@ -17,7 +17,7 @@ metaDescription: "“When the seagulls follow the trawler, it's because they thi
 
 <center>Enjoy! :)</center>
 
-[Click to Horizon's FavMix](https://music.163.com/#/playlist?id=763426060&userid=507780576)
+[Click to Listen Horizon's FavMix](https://open.spotify.com/playlist/2iaNQzgCCkXX6Ty9LqWl0X)
 
 
 
