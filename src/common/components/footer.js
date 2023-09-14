@@ -78,7 +78,7 @@ export default () => (
             </div>
           </div>
           <div className="flex flex-column">
-            <span className="near-white sans-serif f5 tracked mb3 db">FIND {data.site.siteMetadata.siteTitle} ON</span>
+            <span className="near-white sans-serif f5 tracked mb3 db">FIND ME ON</span>
             <a href="https://github.com/Horizon4U" className="near-white sans-serif f5 tracked pv1 db">GITHUB</a>
             <a href="https://steamcommunity.com/profiles/76561198327411284/" className="near-white sans-serif f5 tracked pv1 db">STEAM</a>
             <a href="http://www.cac.gov.cn/gzzt/ztzl/zt/esd/A0920010911index_1.htm" className="near-white sans-serif f5 tracked pv1 db">LIVESTREAM</a>
