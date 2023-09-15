@@ -124,7 +124,7 @@ module.exports = {
         resolve: `gatsby-plugin-waline`,
         options: {
             // 插件配置
-          serverURL: 'https://ez4horizon.top/',
+          serverURL: 'https://www.ez4horizon.top/',
         },
     },
   ]
