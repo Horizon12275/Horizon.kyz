@@ -125,11 +125,10 @@ module.exports = {
       options: {
         // 插件配置
         el: '#vcomment',
-        appId: 'D0VUbbNs9lB6sImd1mMLjkV6-MdYXbMMI',
-        appKey: 'h1BdYVq9FCOszqsVDMBt93Uo',
+        appId: '7a202qYJCHCg2rdnQFJ8Pi07-gzGzoHsz',
+        appKey: 'VJRpepyiE9GX4LfzlzYYxkYa',
         visitor: true,
         recordIP: true,
-        pure: true,
       },
     },
   ]
