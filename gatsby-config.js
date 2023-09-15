@@ -121,15 +121,11 @@ module.exports = {
     },
     // 你的 gatsby-config.js
     {
-      resolve: `gatsby-plugin-valine-comment`,
-      options: {
-        // 插件配置
-        el: '#vcomment',
-        appId: '7a202qYJCHCg2rdnQFJ8Pi07-gzGzoHsz',
-        appKey: 'VJRpepyiE9GX4LfzlzYYxkYa',
-        visitor: true,
-        recordIP: true,
-      },
+        resolve: `gatsby-plugin-waline`,
+        options: {
+            // 插件配置
+          serverURL: 'https://comment-page-waline-drmvknp5f-zhaoson-foxmailcom.vercel.app/',
+        },
     },
   ]
 }
