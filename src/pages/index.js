@@ -7,7 +7,7 @@ import About from '../homepage/components/about';
 import Bio from '../homepage/components/bio';
 import Seo from '../common/seo';
 
-export default ({ data }) => {
+export default ({ data , location}) => {
   let post = data.featuredPost.edges[0].node;
   return (
     <Layout>

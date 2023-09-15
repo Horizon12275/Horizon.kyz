@@ -5,7 +5,6 @@ import "tachyons";
 import "../../common/styles/custom.tachyons.css";
 import "../styles/grid.css";
 
-
 export default props => (
   <div className="min-vh-100 blog__grid">
     <div style={{gridArea: "header"}} />
@@ -19,6 +18,6 @@ export default props => (
       location={props.location}
     />
     <Suggested />
-    
+
   </div>
 )

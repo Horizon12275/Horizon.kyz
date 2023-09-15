@@ -118,6 +118,15 @@ module.exports = {
         exclude: ['/success'],
         cookieDomain: "tyra-starter.netlify.com",
       }
-    }
+    },
+    // 你的 gatsby-config.js
+    {
+      resolve: `gatsby-plugin-valine-comment`,
+      options: {
+        // 插件配置
+        appId: 'D0VUbbNs9lB6sImd1mMLjkV6-MdYXbMMI',
+        appKey: 'h1BdYVq9FCOszqsVDMBt93Uo',
+      },
+    },
   ]
 }

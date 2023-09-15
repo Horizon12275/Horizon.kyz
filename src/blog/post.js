@@ -5,7 +5,7 @@ import Body from './components/body.js';
 import Seo from './seo.js';
 import MetaSeo from '../common/seo';
 import { graphql } from 'gatsby';
-
+import Valine from 'gatsby-plugin-valine-comment';
 
 export default ({location, data }) => {
   const {
@@ -37,6 +37,7 @@ export default ({location, data }) => {
         image={data.post.frontmatter.postImage.childImageSharp.original.src}
         location={location}
       />
+      <Valine path={location.pathname} /*组件配置*/ />
     </Layout>
   )
 }
