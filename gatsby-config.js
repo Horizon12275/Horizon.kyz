@@ -124,7 +124,7 @@ module.exports = {
         resolve: `gatsby-plugin-waline`,
         options: {
             // 插件配置
-          serverURL: 'https://comment-page-waline-drmvknp5f-zhaoson-foxmailcom.vercel.app/',
+          serverURL: 'https://ez4horizon.top/',
         },
     },
   ]
