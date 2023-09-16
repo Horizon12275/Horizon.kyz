@@ -10,7 +10,7 @@ postImage: "./img/Moment_1.jpg"
 metaDescription: "'She said that she would dance with me if I brought her red roses,' cried the young Student; 'but in all my garden there is no red rose.'"
 
 ---
-'She said that she would dance with me if I brought her red roses,' cried the young Student; 'but in all my garden there is no red rose.'
+***'She said that she would dance with me if I brought her red roses,' cried the young Student; 'but in all my garden there is no red rose.'***
 
 ![The Nightingale And The Rose](./img/Moment_1.jpg)
 

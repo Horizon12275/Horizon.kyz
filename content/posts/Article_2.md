@@ -49,4 +49,14 @@ metaDescription: "当我坐在椅子上，木讷地盯着荧幕，正在搜索�
 
 &emsp;&emsp;作注：就这样吧，别做任何删改，没写完的就不写了，天知道我是怎么写出这些东西的：D
 
-&emsp;&emsp;&emsp;&emsp;年轻真好
+&emsp;&emsp;年轻真好
+
+2023.9.15 晚上十二点
+
+&emsp;&emsp;我还是会看一些关于你的信息和内容。有时候也会偷瞄一眼群里大伙儿最近在讨论什么（（（我不知道
+
+&emsp;&emsp;但是又发现了一个很让我开心的点：虽然哥不在了，但是江湖里还流传着哥的传说！（Vinlix居然说我是交大ow太子（真的笑死），还有tisuki，james和studoge也会聊到我）（唉，去年打新生杯的时候被大家伙轮番夸“都是Horizon大哥带我赢”的感觉真的是很开心呢！）
+
+&emsp;&emsp;也在最后放一点当时的比赛录像吧，那天自己急眼了把b站的视频都删完了：[OSU]（https://www.bilibili.com/video/BV1tW4y1n7UD?p=5&vd_source=23710c36ec67fcb89d3077992fb7fcf7），[新生杯和内战](https://www.bilibili.com/video/BV1ce4y1y7fa/?spm_id_from=333.788&vd_source=23710c36ec67fcb89d3077992fb7fcf7)
+
+&emsp;&emsp;被别人夸的感觉确实很好！

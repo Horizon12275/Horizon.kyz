@@ -3,6 +3,7 @@ module.exports = {
     navbarLinks: [
       { to: "/Articles", name: "Articles" },
       { to: "/Moments", name: "Moments" },
+      { to: "/Tech", name: "Tech" },
       { to: "/Mix", name: "Mix" },
       { to: "/blog", name: "blog" },
     ],
