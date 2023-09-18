@@ -31,6 +31,15 @@ May just be browsed by net-spiders and whoever I invited.
 - **Decide not to introduce important updates any further.**
 
 ---
+## Problems Exist
+
+- Sometimes The Page Is Not So Well On Mobile Devices. :(
+
+- Some Links May Redirect to 404 Pages. :(
+
+- Going to Avoid Net Spiders! (If they really exist) :)
+
+---
 
 ## Acknowledgement
 
