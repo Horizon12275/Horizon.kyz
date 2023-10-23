@@ -35,7 +35,7 @@ Demo3[（点击链接）](https://github.com/Horizon4U/projects/blob/main/%E6%9A
 
 模型概览：
 
-![Gallery_2](./img/Tech_2_1.jpg)
+![Gallery_2](./img/Tech_2_2.jpg)
 
 结项论文[（点击链接）](https://github.com/Horizon4U/projects/blob/main/PRP/%E6%95%B0%E5%AD%97%E4%BA%BA%E4%BD%93%E9%AA%8C%E8%B4%A8%E9%87%8F%E8%AF%84%E4%BB%B7%E7%BB%93%E9%A1%B9%E8%AE%BA%E6%96%87.pdf)
 
@@ -48,3 +48,5 @@ Demo3[（点击链接）](https://github.com/Horizon4U/projects/blob/main/%E6%9A
 ![Gallery_3](./img/Tech_2_3.png)
 
 实习报告[（点击链接）](https://github.com/Horizon4U/projects/blob/main/%E7%94%B5%E4%BF%A1%E5%AE%9E%E4%B9%A0/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%E5%AE%9E%E4%B9%A0%E6%8A%A5%E5%91%8A%E7%9B%96%E7%AB%A0%E7%89%88.pdf)
+
+______________________________________________________________________________________________________________
