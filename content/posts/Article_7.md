@@ -1,7 +1,7 @@
 ---
 
 type: "post"
-title: "Above The Clouds 2.0"
+title: "Above The Clouds 2"
 author: "HORIZON"
 category: "Articles"
 date: "2023-09-27"
