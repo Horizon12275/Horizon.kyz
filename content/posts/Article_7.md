@@ -6,7 +6,7 @@ author: "HORIZON"
 category: "Articles"
 date: "2023-09-27"
 slug: "/Article_7"
-postImage: "./img/Article_7.png"
+postImage: "./img/Article_7.jpg"
 metaDescription: "我看到书店沙发旁的书柜上摆放了一束从花朵到花杆全部凋零的枯枝，想用手机记录时，却又感觉拍不好，所以它只是永远停留在了我的记忆中吧。"
 
 ---
@@ -15,7 +15,7 @@ metaDescription: "我看到书店沙发旁的书柜上摆放了一束从花朵�
 
 &emsp;&emsp;他醒了。
 
-![Above The Clouds 2.0](./img/Article_7.png)
+![Above The Clouds 2.0](./img/Article_7.jpg)
 
 &emsp;&emsp;他发现，自己正站在雪山之峰。可是，山腰上的苔原正以肉眼可见的速度腐败、支撑着他的雪层又正以匪夷所思的形态耀燃。恶浊的烂味和尖锐的浓烟向他袭来，划开了他的脸颊，侵蚀着他的大脑。
 
