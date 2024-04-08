@@ -41,9 +41,9 @@ metaDescription: "“经常会遐想，如果没有毛加是不是能有机会�
 
 &emsp;&emsp;“horizon是这次进步最大的选手，在这次赛事中从0开始苦练小锤最后到现在双号宗1，每次训练赛都会主动思考各种各样的问题，去请教玩小锤的高手精进自己的操作；与此同时，相比开始时候默默输出的雾子，horizon在赛事后期已经有了一定指挥能力，进步有目共睹。”
 
-&emsp;&emsp;记录一下由教练团队联手编写的43页的赛训报告：
+&emsp;&emsp;记录一下由教练团队联手编写的43页的赛训总结：
 
-&emsp;&emsp;[kk杯 - 赛训报告.pdf]()
+&emsp;&emsp;[kk杯 - 赛训总结.pdf](https://github.com/Horizon12275/Horizon.kyz/blob/main/content/pdf/KK%E6%9D%AF%20-%20%E8%B5%9B%E8%AE%AD%E6%80%BB%E7%BB%93.pdf)
 
 &emsp;&emsp;顺便记录一下所有出场过的录像留作纪念：
 
