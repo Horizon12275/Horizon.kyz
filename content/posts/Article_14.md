@@ -27,7 +27,7 @@ metaDescription: "也许我也是其中一只麻雀，能永远在赛车场的�
 
 ![charles](./img/Article_14/charles.jpg)
 
-<video src="./img/Article_14/Charles Leclerc.mp4"></video>
+<video src="./img/Article_14/Charles_Leclerc.mp4"></video>
 
 &emsp;&emsp;
 
