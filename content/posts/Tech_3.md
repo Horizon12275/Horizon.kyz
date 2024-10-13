@@ -72,8 +72,6 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 
 - 可以在 springboot 里面通过 ssh 配置远程的 docker 服务器、然后进行远程的 docker 操作，就相当于我在本地操作构建部署、生成 jar 包之后、然后我编写对应的 dockerfile、他能一键在服务器上就能部署最新版本的 jar 包
 
-![alt text](image.png)
-
 ## 配置所有可用的 dockerhub 源镜像
 
 https://github.com/cmliu/CF-Workers-docker.io/issues/8
