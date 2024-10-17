@@ -1,14 +1,13 @@
-import React from 'react';
-import { StaticQuery, graphql } from 'gatsby';
+import React from "react";
+import { StaticQuery, graphql } from "gatsby";
 import {
   FaPinterestP,
   FaFacebookF,
   FaTwitter,
   FaYoutube,
-  FaGithub
-} from 'react-icons/fa';
-import 'tachyons';
-
+  FaGithub,
+} from "react-icons/fa";
+import "tachyons";
 
 export default () => (
   <StaticQuery
@@ -18,22 +17,20 @@ export default () => (
           siteMetadata {
             siteTitle: title
             mailChimpUrl
-            pinterest
-            facebook
-            twitter
-            youtube
             github
           }
         }
-      } 
+      }
     `}
-    render={data => (
+    render={(data) => (
       <footer className="pa2 bg-dark-gray near-white pv5">
         <div className="flex flex-wrap justify-around w-100 mw9 center mb5">
           <div className="w-100 mw5 mb4">
-            <span className="display f2">{data.site.siteMetadata.siteTitle}</span>
+            <span className="display f2">
+              {data.site.siteMetadata.siteTitle}
+            </span>
             <hr />
-              <div className="w-100 flex justify-around items-center pv2">
+            <div className="w-100 flex justify-around items-center pv2">
               {data.site.siteMetadata.facebook && (
                 <a
                   className="near-white"
@@ -44,19 +41,13 @@ export default () => (
               )}
 
               {data.site.siteMetadata.youtube && (
-                <a
-                  className="near-white"
-                  href={data.site.siteMetadata.youtube}
-                >
+                <a className="near-white" href={data.site.siteMetadata.youtube}>
                   <FaYoutube />
                 </a>
               )}
 
               {data.site.siteMetadata.github && (
-                <a
-                  className="near-white"
-                  href={data.site.siteMetadata.github}
-                >
+                <a className="near-white" href={data.site.siteMetadata.github}>
                   <FaGithub />
                 </a>
               )}
@@ -78,12 +69,24 @@ export default () => (
             </div>
           </div>
           <div className="flex flex-column">
-            <span className="near-white sans-serif f5 tracked mb3 db">FIND ME ON</span>
-            <a href="https://github.com/Horizon4U" className="near-white sans-serif f5 tracked pv1 db">GITHUB</a>
-            <a href="https://steamcommunity.com/profiles/76561198327411284/" className="near-white sans-serif f5 tracked pv1 db">STEAM</a>
-            <a href="http://www.cac.gov.cn/gzzt/ztzl/zt/esd/A0920010911index_1.htm" className="near-white sans-serif f5 tracked pv1 db">LIVESTREAM</a>
+            <span className="near-white sans-serif f5 tracked mb3 db">
+              FIND ME ON
+            </span>
+            <a
+              href={data.site.siteMetadata.github}
+              className="near-white sans-serif f5 tracked pv1 db"
+            >
+              GITHUB
+            </a>
+            {/* <a
+              href="https://steamcommunity.com/profiles/76561198327411284/"
+              className="near-white sans-serif f5 tracked pv1 db"
+            >
+              STEAM
+            </a> */}
           </div>
         </div>
       </footer>
-    )} />
-)
+    )}
+  />
+);
