@@ -3,7 +3,7 @@ type: "post"
 title: "应用体系架构AEA各类中间件部署方式整理"
 author: "horizon"
 category: "Tech"
-date: "2025-1-1"
+date: "2025-01-01"
 slug: "/Tech_10"
 postImage: "./img/Tech_10.jpg"
 metaDescription: "归档记录了各类中间件的部署方式，其中包括 Kafka、Redis、Api Docs、MongoDB、Neo4j、InfluxDB、Nginx、Mysql、Graphql、Docker、Frontend、Spark 等。"
@@ -106,6 +106,8 @@ db.collection.find({ "_id": 1 })
 ```
 
 ## Neo4j
+
+0. 默认密码是 neo4j，第一次登录需要修改密码 docker pull neo4j:4.4
 
 1. 启动容器：
 
