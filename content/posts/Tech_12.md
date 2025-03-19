@@ -1,6 +1,6 @@
 ---
 type: "post"
-title: "计算机系统工程CSE上课笔记整理"
+title: "计算机系统工程CSE课程学习笔记"
 author: "horizon"
 category: "Tech"
 date: "2025-01-01"

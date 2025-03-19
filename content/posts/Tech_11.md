@@ -1,6 +1,6 @@
 ---
 type: "post"
-title: "应用体系架构AEA上课笔记整理"
+title: "应用体系架构AEA课程学习笔记"
 author: "horizon"
 category: "Tech"
 date: "2025-01-01"
