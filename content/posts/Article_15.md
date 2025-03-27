@@ -1,5 +1,4 @@
 ---
-
 type: "post"
 title: "Evaporate"
 author: "HORIZON"
@@ -7,11 +6,10 @@ category: "Articles"
 date: "2024-07-11"
 slug: "/Article_15"
 postImage: "./img/Article_15.png"
-metaDescription: "腥气的狂风将雨水洒满了全身、再也没什么值得眷恋。"
-
+metaDescription: "腥气的狂风将雨水洒满了全身、再也没什么值得眷恋。（内容介绍了 Somnium Blog Web 的使用方法）"
 ---
 
-&emsp;&emsp;***腥气的狂风将雨水洒满了全身、再也没什么值得眷恋。***
+&emsp;&emsp;**_腥气的狂风将雨水洒满了全身、再也没什么值得眷恋。_**
 
 ![Evaporate](./img/Article_15.png)
 
