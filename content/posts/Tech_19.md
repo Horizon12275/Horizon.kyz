@@ -4,8 +4,8 @@ title: "无人系统设计课程学习笔记"
 author: "horizon"
 category: "Tech"
 date: "2025-02-01"
-slug: "/Tech_20"
-postImage: "./img/Tech_20.jpg"
+slug: "/Tech_19"
+postImage: "./img/Tech_19.jpg"
 metaDescription: "记录了无人系统设计课程的学习笔记。包含了无人系统设计的基本概念、无人系统设计的基本操作、无人系统设计的仿真模型、无人系统设计的控制算法等内容。"
 ---
 
